@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555793134 source:d:\project cb\g-queue\main.cpp
+	<iostream>
+	<algorithm>
+

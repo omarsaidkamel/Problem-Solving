@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598786121 source:d:\project cb\d - the dueling philosophers problem\main.cpp
+	<iostream>
+	<vector>
+

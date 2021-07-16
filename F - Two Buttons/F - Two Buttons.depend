@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598812751 source:d:\project cb\f - two buttons\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

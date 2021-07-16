@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598793584 source:d:\project cb\e - bicoloring\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

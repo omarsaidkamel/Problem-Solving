@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549115385 source:d:\project cb\mony\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591283643 source:d:\project cb\e - worms\main.cpp
+	<iostream>
+	<algorithm>
+

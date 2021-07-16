@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592296368 source:d:\project cb\a. autocomplete\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

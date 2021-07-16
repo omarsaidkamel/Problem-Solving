@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550437265 source:d:\project cb\c. help poppy!\c. help poppy!\main.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+

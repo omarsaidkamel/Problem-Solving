@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583875613 source:d:\project cb\c - count the pairs\main.cpp
+	<iostream>
+	<algorithm>
+

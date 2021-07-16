@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591128418 source:d:\project cb\10062 - tell me the frequencies\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+
