@@ -1,5 +1,0 @@
-Name    Salary   Department  
-Amir    12000    Sales  
-Amar    15000    HR  
-Adnan   13000    IT  
-Adel    11500    Marketing 
